@@ -1,0 +1,9 @@
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\bin\Debug\Snake Kruglov.exe.config
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\bin\Debug\Snake Kruglov.exe
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\bin\Debug\Snake Kruglov.pdb
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\obj\Debug\Snake Kruglov.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\obj\Debug\Snake Kruglov.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\obj\Debug\Snake Kruglov.exe
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\obj\Debug\Snake Kruglov.pdb
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Aleks\source\repos\Snake Kruglov\Snake Kruglov\obj\Debug\Snake Kruglov.csproj.CopyComplete
