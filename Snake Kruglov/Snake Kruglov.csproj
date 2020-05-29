@@ -54,9 +54,11 @@
     <Compile Include="Figure.cs" />
     <Compile Include="Food Creator.cs" />
     <Compile Include="HorizontalLine.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Score.cs" />
     <Compile Include="Snake.cs" />
     <Compile Include="Sounds.cs" />
     <Compile Include="VerticalLine.cs" />

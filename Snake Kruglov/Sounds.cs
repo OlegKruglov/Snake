@@ -19,12 +19,13 @@ namespace Snake_Kruglov
         public void Play()
         {
             player.URL = pathToMedia + "Jotaro.wav";
-            player.settings.volume = 30;
+            player.settings.volume = 10;
             player.controls.play();
         }
         public void Play(string songName)
         {
             player.URL = pathToMedia + songName + ".wav";
+            player.settings.volume = 10;
             player.controls.play();
         }
     }
